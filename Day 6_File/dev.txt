@@ -1,0 +1,3 @@
+I am a professional
+I am a developer
+I know Python
