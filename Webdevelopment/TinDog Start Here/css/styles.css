@@ -1,14 +1,20 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
 #title {
-	background-color: #ff4c68
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: left;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat-Bold";
+h1{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5
 }
 
-p {
-  color: #8f8f8f;
-}
 
 /* Containers */
 
@@ -52,11 +58,6 @@ p {
 
 /* Title Section */
 
-#title {
-  background-color: #ff4c68;
-  color: #fff;
-  text-align: left;
-}
 
 #title .container-fluid {
   padding: 3% 15% 7%;
@@ -69,5 +70,4 @@ p {
   transform: rotate(25deg);
   position: absolute;
   right: 30%;
-}
-*/
+}*/
